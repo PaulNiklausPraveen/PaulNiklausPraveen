@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, This is Praveen</h1>
-<h3 align="center">A Cloud,DevOps and Security specialist skilled in automating Microsoft Azure and AWS cloud infrastructure and IAC tools like Terraform, Azure Biceps, and CloudFormation to build and manage scalable solutions. I leverage scripting languages such as PowerShell, Python and Bash, along with configuration management tools like Ansible and PowerShell DSC. Additionally, I specialize in image building with Packer 🛠️ and managing on-prem environments, including Windows, Linux, VMware, and Hyper-V.</h3>
+<h3 align="center">A Cloud,DevOps and Security specialist skilled in automating Microsoft Azure and AWS Cloud Infrastructure and IAC tools like Terraform, Azure Biceps, and Cloud Formation to build and manage scalable solutions. I leverage scripting languages such as PowerShell, Python and Bash, along with Configuration Management tools like Ansible and PowerShell DSC. Additionally, I specialize in image building with Packer 🛠️ and in CI/CD pipelines with Azure DevOps and GitHub Actions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulniklauspraveen&label=Profile%20views&color=0e75b6&style=flat" alt="paulniklauspraveen" /> </p>
 
