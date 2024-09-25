@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, This is Praveen</h1>
-<h3 align="center">I'm a Cloud and DevOps specialist with expertise in Infrastructure as Code and Security Automation. My superpower is transforming complex cloud architectures into seamless, automated workflows. Whether it's writing scripts in PowerShell, Python, or Bash, or deploying infrastructure using Terraform, Azure Biceps, and CloudFormation, I ensure systems run like clockwork. ⏰ I thrive in cloud environments like Azure and AWS, and I have experience leveraging Azure DevOps, AWS DevOps, and GitHub Actions to build robust CI/CD pipelines. From Windows Server to Linux, I handle OS management and virtualization with tools like VMware and Hyper-V. 🛠️ If you're interested in automation, cloud infrastructure, or discussing why infrastructure as code is the best thing since sliced bread 🍞, feel free to check out my work or connect!</h3>
+<h3 align="center">I'm a Cloud and DevOps specialist with expertise in Infrastructure as Code and Security Automation. My superpower is transforming complex cloud architectures into seamless, automated workflows. Whether it's writing scripts in PowerShell, Python, or Bash, or deploying infrastructure using Terraform, Azure Biceps, and CloudFormation, I ensure systems run like clockwork. ⏰ I thrive in cloud environments like Azure and AWS, and I have experience leveraging Azure DevOps, AWS DevOps, and GitHub Actions to build robust CI/CD pipelines. From Windows Server to Linux, I handle OS management and virtualization with tools like VMware and Hyper-V. Additionally, I use Packer to automate image building across different environments. 🛠️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulniklauspraveen&label=Profile%20views&color=0e75b6&style=flat" alt="paulniklauspraveen" /> </p>
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **PowerShell,Python,Terraform,Biceps,Ansible,PowerShell DSC,Cloud and DevOps**
 
 - 📫 How to reach me **paulnikpraveen@gmail.com**
+
+- ⚡ Fun fact **When I’m not automating the cloud or scripting up a storm, I’m probably diving into PowerShell modules like Windows, Azure, AWS, Hyper-V, and Microsoft 365. I like to think of PowerShell as my secret weapon – it’s amazing how many things you can manage with a single line of code! 🖥️💥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
